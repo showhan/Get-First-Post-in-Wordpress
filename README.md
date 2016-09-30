@@ -1,4 +1,4 @@
-# To Get Wordpress First Post
+# To Grab Wordpress First Post
 
 It's done on wordpress post loop where you can grab the first post and then can implement that as your requirements.
 
